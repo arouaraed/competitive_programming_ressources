@@ -1,2 +1,1 @@
 [Competitive Programming Handbook](https://cses.fi/book.pdf) is an excellent resource for mastering competitive programming using C++. You don't need prior knowledge of C++, as it teaches the language from the beginning. While exploring essential topics like algorithms, data structures, and problem-solving techniques, printing the handbook is recommended for convenient reference as you enhance your competitive programming abilities!
-i really recommanded 
